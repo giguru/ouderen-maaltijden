@@ -48,7 +48,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
             </div>
         </nav>
     </header>
-    <section class="container-fluid" id="banner">
+    <section class="container-fluid banner" id="banner">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
@@ -88,7 +88,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
                 <img class="image-block" src="assets/images/bedrijven-icon.png" />
                 <h3>Bedrijven</h3>
                 <p class="text-justify">
-                    Als bedrijf bent u onmisbaar in het succes van de Participatie Keuken. Momenteel staan wij voor vele uitdagingen waar wij kennis, producten, ideeën en mensen vanuit het bedrijfsleven hard kunnen gebruiken.
+                    Als bedrijf bent u onmisbaar in het succes van De Participatie Keuken. Momenteel staan wij voor vele uitdagingen waar wij kennis, producten, ideeën en mensen vanuit het bedrijfsleven hard kunnen gebruiken.
                 </p>
                 <a target="_blank" href="<?php echo $bedrijvenLink;?>" class="btn btn-lg btn-blue">
                     Bedrijven
@@ -155,7 +155,9 @@ $infoEmail = "info@departicipatiekeuken.nl";
                 <div class="col-sm-6 offset-sm-3">
                     <h2>Join the team</h2>
                     <p>
-                        Wij zijn op zoek naar mensen die kunnen helpen om van de Participatie keuken een groot succes te maken. Hiervoor hebben wij ook specifieke hulp voor nodig! Wij zijn momenteel op zoek naar vrijwilligers die zich willen inzetten als de rechterhand van Ben, de initiatiefnemer. Je zal je bezig houden met zowel <b>organisatorische zaken</b> als de <b>communicatie</b>. Ben of ken jij de persoon die we zoeken? Stuur dan een mail naar
+                        Wij zijn op zoek naar mensen die kunnen helpen om van De Participatie Keuken een groot succes te maken.</p>
+                    <p>Hiervoor hebben wij ook specifieke hulp nodig! Wij zijn momenteel op zoek naar vrijwilligers die zich willen inzetten als de rechterhand van Ben, de initiatiefnemer. Je zal je bezig houden met zowel <b>organisatorische zaken</b> als de <b>communicatie</b>.</p>
+                    <p>Ben of ken jij de persoon die we zoeken? Stuur dan een mail naar
                         <a target="_blank" class="font-weight-bold" href="mailto:<?php echo $infoEmail; ?>"><?php echo $infoEmail; ?></a>
                     </p>
                 </div>
