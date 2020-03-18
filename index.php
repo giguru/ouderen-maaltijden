@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+$donateLink = "https://www.gofundme.com/f/100000-maaltijden-voor-ouderen?sharetype=teams&member=3899512&utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=db09abb2748b48ff8e97253880401149";
+?><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -18,7 +20,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#donate">Doneer</a>
+                        <a class="nav-link" href="<?php echo $donateLink; ?>">Doneer</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#offer-help">Ik wil helpen!</a>
@@ -68,7 +70,7 @@
                     <p class="text-justify">
                         Met behulp van jouw donatie kunnen wij het plan verwezenlijken om voor eenzame ouderen diepvriesmaaltijden te bereiden en deze vervolgens bij hen te kunnen langs brengen! Denk bijvoorbeeld aan het inkopen van alle ingrediënten voor de recepten, labels met de bereidingswijze, maar ook het vervoeren van de maaltijden.
                     </p>
-                    <a class="btn btn-lg btn-bordeaux" href="https://www.gofundme.com/f/100000-maaltijden-voor-ouderen?sharetype=teams&member=3899512&utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=db09abb2748b48ff8e97253880401149">
+                    <a class="btn btn-lg btn-bordeaux" href="<?php echo $donateLink; ?>">
                         Klik hier om te doneren
                     </a>
                 </div>
