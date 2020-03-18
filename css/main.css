@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+h1,h2,h3 {
+    font-weight: bold;
+}
+h1 {
+    font-size: 200%;
+}
+
+section {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-bottom: 1px solid #eee;
+}
+
+#banner {
+    background: url(../assets/images/Volunteer-soup-kitchen.jpg) no-repeat center top;
+    background-size: 100%;
+    font-size: 120%;
+    color: #fff;
+    padding-bottom: 30vh;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
+}
+
+/* Bootstrap */
+.btn {
+    font-weight: bold;
+    color: #fff !important;
+}
+.btn:hover {
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+.btn-red {
+    background-color: #e94648;
+}
+.btn-red:hover {
+    background-color: rgb(233, 135, 139);
+}
+
+.btn-bordeaux {
+    background-color: #550c2c;
+}
+.btn-bordeaux:hover {
+    background-color: #785163;
+}
+
+.btn-blue {
+    background-color: #b1d3f1;
+}
+.btn-blue:hover {
+    background-color: #d4e0f1;
+}
+
+.navbar {
+    background-color: #e94648;
+}
+.navbar a {
+    color: #fff;
+}
