@@ -85,6 +85,9 @@ ul.news-items li .datum {
 #news-block {
     background-color: #f8f8f8;
 }
+#offer-help h3 + p {
+    min-height: 230px;
+}
 /* Bootstrap */
 .btn {
     font-weight: bold;
@@ -116,7 +119,7 @@ ul.news-items li .datum {
 }
 
 .navbar {
-    background-color: #e94648;
+    background-color: #550c2c;
 }
 .navbar a {
     color: #fff !important;
@@ -139,6 +142,9 @@ ul.news-items li .datum {
         min-height: 100vh;
         padding-top: 35vh;
         padding-bottom: 0;
+    }
+    #offer-help h3 + p {
+        min-height: 0;
     }
 }
 

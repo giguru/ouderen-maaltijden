@@ -54,7 +54,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
                 <div class="col-sm-6">
                     <h1>100.000 maaltijden</h1>
                     <p class="font-weight-bold">
-                        De Participatie Keuken zet zich om voor eenzame ouderen 15 weken langs elke dag een diepvriesmaaltijd te bereiden in de regio Den Haag.
+                        De Participatie Keuken zet zich in voor eenzame ouderen om 15 weken lang elke dag een diepvriesmaaltijd te bereiden in de regio Den Haag
                     </p>
                 </div>
             </div>
