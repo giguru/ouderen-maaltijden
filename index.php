@@ -1,7 +1,7 @@
 <?php
 $donateLink = "https://www.gofundme.com/f/100000-maaltijden-voor-ouderen?sharetype=teams&member=3899512&utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=db09abb2748b48ff8e97253880401149";
-$aanmeldLink = "";
-$bedrijvenLink = "";
+$aanmeldLink = "https://docs.google.com/forms/d/17UjKk42-lABFXCo8DTdsNRWUjSNF0vwg6TpVr2i7KJg/edit?usp=sharing";
+$bedrijvenLink = "https://docs.google.com/forms/d/1bVtzks3fCWgRn-WZvFnPkgUmid7GSNee1PvNRpAmjx0/viewform?edit_requested=true";
 $infoEmail = "info@departicipatiekeuken.nl";
 ?><!DOCTYPE html>
 <html lang="en">
@@ -70,7 +70,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
                 <p class="text-justify">
                     De ambitie van Ben om 100.000 maaltijden te bereiden is niet niks, maar vele handen maken licht werk! De Participatie Keuken is daarom opzoek naar vrijwilligers die in allerlei facetten van het project een steentje willen bijdragen. Meld je snel aan en geef aan waar wij jouw hulp kunnen gebruiken!
                 </p>
-                <a target="_blank" class="btn btn-lg btn-red">
+                <a target="_blank" href="<?php echo $aanmeldLink;?>" class="btn btn-lg btn-red">
                     Meld je hier aan
                 </a>
             </div>
@@ -90,7 +90,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
                 <p class="text-justify">
                     Als bedrijf bent u onmisbaar in het succes van de Participatie Keuken. Momenteel staan wij voor vele uitdagingen waar wij kennis, producten, ideeën en mensen vanuit het bedrijfsleven hard kunnen gebruiken.
                 </p>
-                <a target="_blank" class="btn btn-lg btn-blue">
+                <a target="_blank" href="<?php echo $bedrijvenLink;?>" class="btn btn-lg btn-blue">
                     Bedrijven
                 </a>
             </div>
