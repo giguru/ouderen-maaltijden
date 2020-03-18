@@ -189,6 +189,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
                         <br/>
                         Email: <a target="_blank" href="mailto:actieteam@participatiekeuken.nl">actieteam@participatiekeuken.nl</a>
                     </p>
+                    <img src="./assets/images/logo-big.png" />
                 </div>
             </div>
         </div>
