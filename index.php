@@ -96,54 +96,56 @@ $infoEmail = "info@departicipatiekeuken.nl";
             </div>
         </div>
     </section>
-    <section class="text-justify container">
-        <div class="row">
-            <div class="col-sm-6">
-                <h3>Het verhaal van Ben</h3>
-                <p>
-                    Gewoon door samen te koken en daarna aan tafel te gaan bracht Ben Lachhab eenzame ouderen bij elkaar. Toen dit niet meer mogelijk was, ging Ben gelijk aan de slag.
-                </p>
-                <p>
-                    Honderdduizend maaltijden voor kwetsbare ouderen wilde hij uitdelen voor al diegenen die nu nergens meer terecht kunnen. Waar hij alleen startte met een bericht op Facebook wordt er op dit moment al met vele partijen besproken hoe dit plan volgende week succesvol van start kan gaan.
-                </p>
-                <blockquote>&quot;Ik hoop dat we hier sterker uit komen. Onze krachten bundelen, daar gaat het om!&quot;</blockquote>
-                <p>
-                    En dat is gebeurd! Shell heeft inmiddels de katering beschikbaar gesteld om dit project te kunnen waarmaken. Verder is gemeente Den Haag ook nauw betrokken om van dit project een succes te maken!
-                </p>
-            </div>
-            <div class="col-sm-6" id="news-block">
-                <h3>Ben in het Nieuws</h3>
-                <ul class="news-items">
-                    <li>
-                        <span class="datum">19:45 18 maart</span>
-                        <p>
-                            Het initiatief van de Haagse restaurant manager Ben Lachhab wordt door steeds meer bedrijven gesteund. Zo kookte het hoofdkantoor van Shell woensdag al haar voorraad voor het bedrijfsrestaurant tot diepvriesmaaltijden. 'Toen we van de actie hoorden, werden we gelijk enthousiast. Dit is een ontzettend mooi initiatief en op deze manier verspillen we geen eten', zegt Michiel van Wolferen, hospitality manager bij Shell.
-                            <a target="_blank" href="https://www.omroepwest.nl/nieuws/4014114/Shell-kookt-diepvriesmaaltijden-voor-kwetsbare-ouderen">
-                                Lees het hele artikel hier.
-                            </a>
-                        </p>
-                    </li>
-                    <li>
-                        <span class="datum">12:30 18 maart</span>
-                        <p>
-                            Hagenaar Ben brengt duizenden maaltijden thuis bij kwetsbare ouderen
-                            Ben Lachhab bezorgt de komende vijftien weken dankzij giften van sponsoren 100.000 maaltijden bij kwetsbare ouderen. &quot;Uit angst voor het coronavirus durven zij vaak de deur niet uit. En ze hebben toch heus eten nodig.&quot;
-                            <a target="_blank" href="https://www.ad.nl/den-haag/hagenaar-ben-brengt-duizenden-maaltijden-thuis-bij-kwetsbare-ouderen~ab2cee0e/">
-                                Lees het hele artikel hier.
-                            </a>
-                        </p>
-                    </li>
-                    <li>
-                    <span class="datum">17:30 14 maart
-</span>
-                        <p>
-                            DEN HAAG - Honderdduizend maaltijden om duizend kwetsbare ouderen vijftien weken lang van een maaltijd te voorzien, voor het geval dat Nederland op slot gaat vanwege het coronavirus. Hagenaar Ben Lachhab is druk met het uitwerken van zijn plan. 'We moeten nu bewijzen dat we er als maatschappij voor elkaar zijn.
-                            <a target="_blank" href="https://www.omroepwest.nl/nieuws/4011604/Hagenaar-wil-tijdens-coronacrisis-100-000-maaltijden-invriezen-voor-ouderen">
-                                Lees het hele artikel hier.
-                            </a>
-                        </p>
-                    </li>
-                </ul>
+    <section class="text-justify bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h3>Het verhaal van Ben</h3>
+                    <p>
+                        Gewoon door samen te koken en daarna aan tafel te gaan bracht Ben Lachhab eenzame ouderen bij elkaar. Toen dit niet meer mogelijk was, ging Ben gelijk aan de slag.
+                    </p>
+                    <p>
+                        Honderdduizend maaltijden voor kwetsbare ouderen wilde hij uitdelen voor al diegenen die nu nergens meer terecht kunnen. Waar hij alleen startte met een bericht op Facebook wordt er op dit moment al met vele partijen besproken hoe dit plan volgende week succesvol van start kan gaan.
+                    </p>
+                    <blockquote>&quot;Ik hoop dat we hier sterker uit komen. Onze krachten bundelen, daar gaat het om!&quot;</blockquote>
+                    <p>
+                        En dat is gebeurd! Shell heeft inmiddels de katering beschikbaar gesteld om dit project te kunnen waarmaken. Verder is gemeente Den Haag ook nauw betrokken om van dit project een succes te maken!
+                    </p>
+                </div>
+                <div class="col-sm-6" id="news-block">
+                    <h3>Ben in het Nieuws</h3>
+                    <ul class="news-items">
+                        <li>
+                            <span class="datum">19:45 18 maart</span>
+                            <p>
+                                Het initiatief van de Haagse restaurant manager Ben Lachhab wordt door steeds meer bedrijven gesteund. Zo kookte het hoofdkantoor van Shell woensdag al haar voorraad voor het bedrijfsrestaurant tot diepvriesmaaltijden. 'Toen we van de actie hoorden, werden we gelijk enthousiast. Dit is een ontzettend mooi initiatief en op deze manier verspillen we geen eten', zegt Michiel van Wolferen, hospitality manager bij Shell.
+                                <a target="_blank" href="https://www.omroepwest.nl/nieuws/4014114/Shell-kookt-diepvriesmaaltijden-voor-kwetsbare-ouderen">
+                                    Lees het hele artikel hier.
+                                </a>
+                            </p>
+                        </li>
+                        <li>
+                            <span class="datum">12:30 18 maart</span>
+                            <p>
+                                Hagenaar Ben brengt duizenden maaltijden thuis bij kwetsbare ouderen
+                                Ben Lachhab bezorgt de komende vijftien weken dankzij giften van sponsoren 100.000 maaltijden bij kwetsbare ouderen. &quot;Uit angst voor het coronavirus durven zij vaak de deur niet uit. En ze hebben toch heus eten nodig.&quot;
+                                <a target="_blank" href="https://www.ad.nl/den-haag/hagenaar-ben-brengt-duizenden-maaltijden-thuis-bij-kwetsbare-ouderen~ab2cee0e/">
+                                    Lees het hele artikel hier.
+                                </a>
+                            </p>
+                        </li>
+                        <li>
+                        <span class="datum">17:30 14 maart
+    </span>
+                            <p>
+                                DEN HAAG - Honderdduizend maaltijden om duizend kwetsbare ouderen vijftien weken lang van een maaltijd te voorzien, voor het geval dat Nederland op slot gaat vanwege het coronavirus. Hagenaar Ben Lachhab is druk met het uitwerken van zijn plan. 'We moeten nu bewijzen dat we er als maatschappij voor elkaar zijn.
+                                <a target="_blank" href="https://www.omroepwest.nl/nieuws/4011604/Hagenaar-wil-tijdens-coronacrisis-100-000-maaltijden-invriezen-voor-ouderen">
+                                    Lees het hele artikel hier.
+                                </a>
+                            </p>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
     </section>
@@ -160,7 +162,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
             </div>
         </div>
     </section>
-    <footer>
+    <footer class="bg-light">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
