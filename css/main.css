@@ -22,7 +22,9 @@ section {
 }
 
 #banner {
-    background: url(../assets/images/banner.png) no-repeat center center;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-image: url(../assets/images/banner.png);
     background-size: cover;
     font-size: 120%;
     color: #fff;
@@ -117,5 +119,11 @@ p a:hover {
         min-height: 100vh;
         padding-top: 35vh;
         padding-bottom: 0;
+    }
+}
+
+@media (max-width: 1680px) {
+    #banner {
+        background-position: center 10%;
     }
 }
