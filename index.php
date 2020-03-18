@@ -147,25 +147,15 @@ $infoEmail = "info@departicipatiekeuken.nl";
             </div>
         </div>
     </section>
-    <section class="text-left" id="join-the-team">
+    <section class="text-center" id="join-the-team">
         <div class="container">
             <div class="row">
-                <div class="col-sm-4">
+                <div class="col-sm-6 offset-sm-3">
                     <h2>Join the team</h2>
                     <p>
-                        Wij zijn op zoek naar mensen die kunnen helpen om van de Participatie keuken een groot succes te maken. Hiervoor hebben wij ook specifieke hulp voor nodig! Wij zijn momenteel op zoek naar vrijwilligers die zich willen inzetten als de rechterhand van Ben, de initiatiefnemer. Je zal je bezig houden met zowel organisatorische zaken als de communicatie. Ben of ken jij de persoon die we zoeken? Stuur dan een mail naar
+                        Wij zijn op zoek naar mensen die kunnen helpen om van de Participatie keuken een groot succes te maken. Hiervoor hebben wij ook specifieke hulp voor nodig! Wij zijn momenteel op zoek naar vrijwilligers die zich willen inzetten als de rechterhand van Ben, de initiatiefnemer. Je zal je bezig houden met zowel <b>organisatorische zaken</b> als de <b>communicatie</b>. Ben of ken jij de persoon die we zoeken? Stuur dan een mail naar
                         <a target="_blank" class="font-weight-bold" href="mailto:<?php echo $infoEmail; ?>"><?php echo $infoEmail; ?></a>
                     </p>
-                </div>
-                <div class="col-sm-8">
-                    <ul class="profielen">
-                        <li>
-                            Profiel 1
-                        </li>
-                        <li>
-                            Profiel 2
-                        </li>
-                    </ul>
                 </div>
             </div>
         </div>
