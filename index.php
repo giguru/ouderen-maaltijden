@@ -170,7 +170,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
                 <div class="col-sm-6">
                     <h3>Over ons</h3>
                     <p>
-                        Binnen een dag wist Ben een heel team om zich heen te verzamelen. De groep bestaat uit een divers team met verschillende ervaringen. <i>Jan Paul</i> zal als kok van de maaltijden zich richten op alle inkoop van de ingrediënten tot aan de apparatuur. <i>Liesbeth</i> gaat samen met <i>Max, Gert-Jan, Sophie</i> en <i>Maxime</i> aan de slag met de logistiek en communicatie van het initiatief.
+                        Binnen een dag wist Ben een heel team om zich heen te verzamelen. De groep bestaat uit een divers team met verschillende ervaringen. <i>Janpaul</i> zal als kok van de maaltijden zich richten op alle inkoop van de ingrediënten tot aan de apparatuur. <i>Liesbeth</i> gaat samen met <i>Max, Gertjan, Sophie</i> en <i>Maxime</i> aan de slag met de logistiek en communicatie van het initiatief.
                     </p>
                     <p>
                         Natuurlijk kunnen wij hulp gebruiken, dus <a target="_blank" href="mailto:<?php echo $infoEmail; ?>">meld je aan!</a>
