@@ -10,6 +10,7 @@ $infoEmail = "info@participatiekeuken.nl";
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>De Participatie Keuken</title>
     <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/animate.css" />
     <link rel="stylesheet" href="css/main.css" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-75183509-2"></script>
@@ -51,7 +52,7 @@ $infoEmail = "info@participatiekeuken.nl";
     <section class="container-fluid banner" id="banner">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-6 animated bounceIn">
                     <h1>100.000 maaltijden</h1>
                     <p class="font-weight-bold">
                         De Participatie Keuken zet zich in voor eenzame ouderen om 15 weken lang elke dag een diepvriesmaaltijd te bereiden in de regio Den Haag

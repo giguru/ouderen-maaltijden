@@ -37,6 +37,7 @@ section, footer {
 #banner {
     background-repeat: no-repeat;
     background-position: center top;
+    background-attachment: fixed;
     background-image: url(../assets/images/banner.png);
     background-size: cover;
     font-size: 120%;
@@ -152,6 +153,7 @@ ul.news-items li .datum {
     max-width: 475px;
     border-radius: 5px;
     overflow: hidden;
+    max-height: 400px;
 }
 
 @media (max-width: 575.98px) {
