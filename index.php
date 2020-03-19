@@ -8,6 +8,7 @@ $infoEmail = "info@participatiekeuken.nl";
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="De Participatie Keuken zet zich in voor eenzame ouderen om 15 weken lang elke dag een diepvriesmaaltijd te bereiden in de regio Den Haag">
     <title>De Participatie Keuken</title>
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
