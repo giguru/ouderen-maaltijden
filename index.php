@@ -2,7 +2,7 @@
 $donateLink = "https://www.gofundme.com/f/100000-maaltijden-voor-ouderen?sharetype=teams&member=3899512&utm_medium=social&utm_source=whatsapp&utm_campaign=p_na+share-sheet&rcid=db09abb2748b48ff8e97253880401149";
 $aanmeldLink = "https://docs.google.com/forms/d/17UjKk42-lABFXCo8DTdsNRWUjSNF0vwg6TpVr2i7KJg/edit?usp=sharing";
 $bedrijvenLink = "https://docs.google.com/forms/d/1bVtzks3fCWgRn-WZvFnPkgUmid7GSNee1PvNRpAmjx0/viewform?edit_requested=true";
-$infoEmail = "info@departicipatiekeuken.nl";
+$infoEmail = "info@participatiekeuken.nl";
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
@@ -56,6 +56,7 @@ $infoEmail = "info@departicipatiekeuken.nl";
                     <p class="font-weight-bold">
                         De Participatie Keuken zet zich in voor eenzame ouderen om 15 weken lang elke dag een diepvriesmaaltijd te bereiden in de regio Den Haag
                     </p>
+                    <div class="gfm-embed" data-url="https://www.gofundme.com/f/100000-maaltijden-voor-ouderen/widget/small"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
                 </div>
             </div>
         </div>
