@@ -194,6 +194,11 @@ $infoEmail = "info@departicipatiekeuken.nl";
             </div>
         </div>
     </footer>
+    <div class="credentials">
+        <div class="container">
+            Medemogelijk gemaakt door <a href="https://bluebrainit.nl">Blue Brain</a>.
+        </div>
+    </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
     <script src="js/bootstrap.min.js"></script>
     <script>
