@@ -103,6 +103,13 @@ ul.news-items li .datum {
 #offer-help h3 + p {
     min-height: 230px;
 }
+
+.social-logo {
+    height: 30px;
+}
+.logo {
+    height: 150px;
+}
 /* Bootstrap */
 .btn {
     font-weight: bold;
@@ -157,6 +164,9 @@ ul.news-items li .datum {
 }
 
 @media (max-width: 575.98px) {
+    #banner {
+        background-attachment: scroll;
+    }
     .col-sm-4 {
         margin-bottom: 50px;
     }
