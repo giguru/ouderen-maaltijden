@@ -64,9 +64,10 @@ section, footer {
 }
 
 .subtitle {
-    margin-bottom: 30px;
     font-size: 125%;
     color: #666;
+    max-width: 700px;
+    margin: 0 auto 30px;
 }
 
 .image-block {
@@ -109,6 +110,13 @@ ul.news-items li .datum {
 }
 .logo {
     height: 150px;
+}
+.partners {
+    text-align: center;
+}
+.partners img {
+    height: 80px;
+    margin: 0 15px;
 }
 /* Bootstrap */
 .btn {

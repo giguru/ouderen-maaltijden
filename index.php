@@ -170,6 +170,20 @@ $actieTeamEmail = "actieteamparticipatiekeuken@gmail.com";
             </div>
         </section>
     </main>
+    <section class="partners">
+        <h3>Partners</h3>
+        <p class="subtitle">
+            Samen met deze bedrijven bundelen wij onze krachten om de participatiekeuken tot een succes te brengen!
+            Veel dank!
+        </p>
+        <img src="assets/images/partners/GemeenteDHLogo.png" alt="Logo gemeente Den Haag" />
+        <img src="assets/images/partners/GewoonmensenLogo.jpg" alt="Logo Gewoon mensen" />
+        <img src="assets/images/partners/MAEX.png" alt="Logo MAEX" />
+        <img src="assets/images/partners/ShellLOGO.png" alt="Logo Shell" />
+        <img src="assets/images/partners/WelzijnScheveningen.png" alt="Logo Welzijn Scheveningen" />
+        <img src="assets/images/partners/WorldforumDH.png" alt="Logo World Forum Den Haag" />
+        <img src="assets/images/partners/XTRAwelzijnLOGO.png" alt="Logo XTRA welzijn" />
+    </section>
     <footer class="bg-light">
         <div class="container">
             <div class="row">
