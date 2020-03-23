@@ -118,6 +118,21 @@ ul.news-items li .datum {
     height: 80px;
     margin: 0 15px;
 }
+.gezondheidsmaatregelen {
+    background-color: #f7f7f7;
+}
+.gezondheidsmaatregelen ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.gezondheidsmaatregelen img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
 /* Bootstrap */
 .btn {
     font-weight: bold;

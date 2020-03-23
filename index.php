@@ -107,14 +107,23 @@ $actieTeamEmail = "actieteamparticipatiekeuken@gmail.com";
                     <div class="col-sm-6">
                         <h3>Het verhaal van Ben</h3>
                         <p>
-                            Gewoon door samen te koken en daarna aan tafel te gaan bracht Ben Lachhab eenzame ouderen bij elkaar. Toen dit niet meer mogelijk was, ging Ben gelijk aan de slag.
+                            Gewoon door samen te koken en daarna aan tafel te gaan bracht Ben Lachhab eenzame ouderen
+                            bij elkaar. Toen dit niet meer mogelijk was door het Coronavirus, ging Ben gelijk aan de
+                            slag.
                         </p>
                         <p>
-                            Honderdduizend maaltijden voor kwetsbare ouderen wilde hij uitdelen voor al diegenen die nu nergens meer terecht kunnen. Waar hij alleen startte met een bericht op Facebook wordt er op dit moment al met vele partijen besproken hoe dit plan volgende week succesvol van start kan gaan.
+                            Honderdduizend maaltijden voor kwetsbare ouderen wil hij uitdelen voor al diegenen die nu
+                            nergens meer terecht kunnen. Waar hij alleen startte met een bericht op Facebook wordt er
+                            op dit moment al met vele partijen besproken hoe dit plan succesvol van start
+                            kan gaan.
                         </p>
-                        <blockquote>&quot;Ik hoop dat we hier sterker uit komen. Onze krachten bundelen, daar gaat het om!&quot;</blockquote>
+                        <blockquote>
+                            &quot;Ik hoop dat we hier sterker uit komen. Onze krachten bundelen, daar gaat hetom!&quot;
+                        </blockquote>
                         <p>
-                            En dat is gebeurd! Shell heeft inmiddels de katering beschikbaar gesteld om dit project te kunnen waarmaken. Verder is gemeente Den Haag ook nauw betrokken om van dit project een succes te maken!
+                            En de krachten bundelen, dat is wat Ben doet door honderdduizend maaltijden voor kwetsbare
+                            ouderen te gaan koken. Vele partijen denken en doen al mee om dit plan van start te laten
+                            gaan maar we kunnen nog steeds extra hulp gebruiken.
                         </p>
                     </div>
                     <div class="col-sm-6" id="news-block">
@@ -167,6 +176,25 @@ $actieTeamEmail = "actieteamparticipatiekeuken@gmail.com";
                         </p>
                     </div>
                 </div>
+            </div>
+        </section>
+        <section class="text-center gezondheidsmaatregelen">
+            <h3>Gezondheidsmaatregelen</h3>
+            <div class="container">
+                <ul class="row">
+                    <li class="col-sm-4">
+                        <p>1. Houd altijd 1,5 meter afstand!</p>
+                        <img src="assets/images/maatregelen/keep-distance.jpg" alt="Houd afstand" />
+                    </li>
+                    <li class="col-sm-4">
+                        <p>2. Was je handen goed voordat je begint</p>
+                        <img height="150" src="assets/images/maatregelen/wash-hands.jpg" alt="Handen wassen" />
+                    </li>
+                    <li class="col-sm-4">
+                        <p>3. Bedek je mond met een sjaal of op een andere manier</p>
+                        <img src="assets/images/maatregelen/cover-mouth.jpg" alt="Bedek je mond" />
+                    </li>
+                </ul>
             </div>
         </section>
     </main>
