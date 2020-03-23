@@ -211,6 +211,7 @@ $actieTeamEmail = "actieteamparticipatiekeuken@gmail.com";
         <img src="assets/images/partners/WelzijnScheveningen.png" alt="Logo Welzijn Scheveningen" />
         <img src="assets/images/partners/WorldforumDH.png" alt="Logo World Forum Den Haag" />
         <img src="assets/images/partners/XTRAwelzijnLOGO.png" alt="Logo XTRA welzijn" />
+        <img src="assets/images/partners/ah.png" alt="Logo Albert Heijn" />
     </section>
     <footer class="bg-light">
         <div class="container">
