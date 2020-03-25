@@ -130,29 +130,49 @@ $actieTeamEmail = "actieteamparticipatiekeuken@gmail.com";
                         <h3>Ben in het Nieuws</h3>
                         <ul class="news-items">
                             <li>
-                                <span class="datum">19:45 18 maart</span>
+                                <span class="datum">19:39 24 maart 2020</span>
                                 <p>
-                                    Het initiatief van de Haagse restaurant manager Ben Lachhab wordt door steeds meer bedrijven gesteund. Zo kookte het hoofdkantoor van Shell woensdag al haar voorraad voor het bedrijfsrestaurant tot diepvriesmaaltijden. 'Toen we van de actie hoorden, werden we gelijk enthousiast. Dit is een ontzettend mooi initiatief en op deze manier verspillen we geen eten', zegt Michiel van Wolferen, hospitality manager bij Shell.
+                                    DEN HAAG - Honderden kwetsbare ouderen in de regio Den Haag hebben dinsdagmiddag
+                                    diepvriesmaaltijden ontvangen. Het is de eerste lichting van de goede doelen-actie
+                                    van de restaurantmanager Ben Lachhab.
+                                    <a target="_blank" href="https://www.omroepwest.nl/nieuws/4015892/Honderden-Haagse-ouderen-ontvangen-diepvriesmaaltijden">
+                                        Lees het hele artikel hier.
+                                    </a>
+                                </p>
+                            </li>
+                            <li>
+                                <span class="datum">19:45 18 maart 2020</span>
+                                <p>
+                                    Het initiatief van de Haagse restaurant manager Ben Lachhab wordt door steeds meer
+                                    bedrijven gesteund. Zo kookte het hoofdkantoor van Shell woensdag al haar voorraad
+                                    voor het bedrijfsrestaurant tot diepvriesmaaltijden. 'Toen we van de actie hoorden,
+                                    werden we gelijk enthousiast. Dit is een ontzettend mooi initiatief en op deze
+                                    manier verspillen we geen eten', zegt Michiel van Wolferen, hospitality manager bij
+                                    Shell.
                                     <a target="_blank" href="https://www.omroepwest.nl/nieuws/4014114/Shell-kookt-diepvriesmaaltijden-voor-kwetsbare-ouderen">
                                         Lees het hele artikel hier.
                                     </a>
                                 </p>
                             </li>
                             <li>
-                                <span class="datum">12:30 18 maart</span>
+                                <span class="datum">12:30 18 maart 2020</span>
                                 <p>
                                     Hagenaar Ben brengt duizenden maaltijden thuis bij kwetsbare ouderen
-                                    Ben Lachhab bezorgt de komende vijftien weken dankzij giften van sponsoren 100.000 maaltijden bij kwetsbare ouderen. &quot;Uit angst voor het coronavirus durven zij vaak de deur niet uit. En ze hebben toch heus eten nodig.&quot;
+                                    Ben Lachhab bezorgt de komende vijftien weken dankzij giften van sponsoren 100.000
+                                    maaltijden bij kwetsbare ouderen. &quot;Uit angst voor het coronavirus durven zij
+                                    vaak de deur niet uit. En ze hebben toch heus eten nodig.&quot;
                                     <a target="_blank" href="https://www.ad.nl/den-haag/hagenaar-ben-brengt-duizenden-maaltijden-thuis-bij-kwetsbare-ouderen~ab2cee0e/">
                                         Lees het hele artikel hier.
                                     </a>
                                 </p>
                             </li>
                             <li>
-                            <span class="datum">17:30 14 maart
-        </span>
+                                <span class="datum">17:30 14 maart 2020</span>
                                 <p>
-                                    DEN HAAG - Honderdduizend maaltijden om duizend kwetsbare ouderen vijftien weken lang van een maaltijd te voorzien, voor het geval dat Nederland op slot gaat vanwege het coronavirus. Hagenaar Ben Lachhab is druk met het uitwerken van zijn plan. 'We moeten nu bewijzen dat we er als maatschappij voor elkaar zijn.
+                                    DEN HAAG - Honderdduizend maaltijden om duizend kwetsbare ouderen vijftien weken
+                                    lang van een maaltijd te voorzien, voor het geval dat Nederland op slot gaat
+                                    vanwege het coronavirus. Hagenaar Ben Lachhab is druk met het uitwerken van zijn
+                                    plan. 'We moeten nu bewijzen dat we er als maatschappij voor elkaar zijn.
                                     <a target="_blank" href="https://www.omroepwest.nl/nieuws/4011604/Hagenaar-wil-tijdens-coronacrisis-100-000-maaltijden-invriezen-voor-ouderen">
                                         Lees het hele artikel hier.
                                     </a>
